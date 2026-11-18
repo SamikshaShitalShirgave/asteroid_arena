@@ -1,0 +1,12 @@
+requests
+pandas
+pyarrow
+numpy
+matplotlib
+plotly
+streamlit
+graphviz
+pytest
+hypothesis
+pyperf
+scipy
