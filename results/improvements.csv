@@ -1,0 +1,19 @@
+key,source,n,variant,median_ns,mean_probes,max_error
+number,asteroids,806290,binary (hand-written),1727.6416,18.8152,
+number,asteroids,806290,bisect (C),628.35,0.0,
+number,asteroids,806290,interpolation,961.2666,3.004,
+number,asteroids,806290,hybrid,852.2166,3.0126,
+number,asteroids,806290,learned index,576.25,0.0,130.0
+number,asteroids,806290,eytzinger,1236.7582,18.8256,
+H,asteroids,806290,binary (hand-written),832.0584,9.1828,
+H,asteroids,806290,bisect (C),310.8916,0.0,
+H,asteroids,806290,interpolation,68851.7582,60.1206,
+H,asteroids,806290,hybrid,1765.05,11.1476,
+H,asteroids,806290,learned index,620.6084,0.0,2566408.0
+H,asteroids,806290,eytzinger,591.85,10.0742,
+diameter,asteroids,122044,binary (hand-written),1170.1168,12.6776,
+diameter,asteroids,122044,bisect (C),311.1584,0.0,
+diameter,asteroids,122044,interpolation,261437.0166,1345.2054,
+diameter,asteroids,122044,hybrid,2318.7916,16.4328,
+diameter,asteroids,122044,learned index,618.9582,0.0,1357809.0
+diameter,asteroids,122044,eytzinger,814.9082,13.1244,

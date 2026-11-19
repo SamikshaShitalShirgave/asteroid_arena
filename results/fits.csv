@@ -1,0 +1,19 @@
+key,structure,order,best_model,loglog_slope
+H,binary,sorted,O(log n),0.097
+H,bst,random,O(log n),0.049
+H,bst,sorted,O(log n),0.512
+H,linear,sorted,O(n),1.075
+H,rbtree,random,O(log n),0.043
+H,rbtree,sorted,O(log n),0.064
+diameter,binary,sorted,O(log n),0.143
+diameter,bst,random,O(log n),0.108
+diameter,bst,sorted,O(n),0.929
+diameter,linear,sorted,O(n),1.064
+diameter,rbtree,random,O(log n),0.092
+diameter,rbtree,sorted,O(log n),0.096
+number,binary,sorted,O(log n),0.155
+number,bst,random,O(log n),0.138
+number,bst,sorted,O(n log n),0.846
+number,linear,sorted,O(n),1.053
+number,rbtree,random,O(log n),0.077
+number,rbtree,sorted,O(log n),-0.025

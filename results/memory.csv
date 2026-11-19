@@ -1,0 +1,5 @@
+structure,n,bytes_per_key
+python list (sorted array),100000,39.91832
+BST nodes with __slots__,100000,167.88336
+BST nodes without __slots__,100000,199.91168
+red-black tree,100000,175.8788

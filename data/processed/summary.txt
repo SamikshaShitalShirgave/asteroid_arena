@@ -1,0 +1,5 @@
+rows downloaded:          895,910
+number keys:              895,910 (min 1, max 895910)
+H keys:                   895,910 (1,809 distinct values)
+diameter keys:            135,476 (15.1% of asteroids have a measured diameter)
+diameter median / max km: 4.03 / 939.4
